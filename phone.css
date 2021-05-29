@@ -1,0 +1,55 @@
+@media only screen and (max-width:714px){
+    .upper{
+        height: 100px;
+        margin: 30px;
+    }
+    .lower{
+        flex-direction: column;
+    }   
+    .comp, .college{
+        display: flex;
+        padding: 10px;
+        align-items: center;
+        margin-left: 50px;
+    }
+    .profile-pic{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .profile-pic h2, .profile-pic p{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .box1{
+        flex-direction: column;
+    }
+    .box1 img{
+        margin: auto;
+    }
+    .college2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .college2 h4, .college2 p{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-left: 0;
+    }
+    .exp{
+        padding-left: 20px;
+    }
+    .edu{
+        padding-left: 20px;
+    }
+    .skills{
+        padding-left: 20px;
+    }
+    .acom{
+        padding-left: 20px;
+    }
+
+    }
